@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AeyeProject2</string>
+    <string name="StrAcceleration">가속도</string>
+    <string name="StrHorSen">수평민감도</string>
+    <string name="StrVertSen">수직민감도</string>
+    <string name="StrFaceRecog">얼굴인식</string>
+    <string name="StrConfirm">확인</string>
+</resources>
